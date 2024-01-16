@@ -1,0 +1,16 @@
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\bin\Debug\net8.0-windows\HolaMundoForm.exe
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\bin\Debug\net8.0-windows\HolaMundoForm.deps.json
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\bin\Debug\net8.0-windows\HolaMundoForm.runtimeconfig.json
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\bin\Debug\net8.0-windows\HolaMundoForm.dll
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\bin\Debug\net8.0-windows\HolaMundoForm.pdb
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.Form1.resources
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.csproj.GenerateResource.cache
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.dll
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\refint\HolaMundoForm.dll
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.pdb
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\HolaMundoForm.genruntimeconfig.cache
+C:\Users\eduardo\source\repos\HolaMundoForm\HolaMundoForm\obj\Debug\net8.0-windows\ref\HolaMundoForm.dll
