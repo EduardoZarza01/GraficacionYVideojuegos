@@ -1,0 +1,16 @@
+C:\Users\eduardo\source\repos\Centroide\Centroide\bin\Debug\net8.0-windows\Centroide.exe
+C:\Users\eduardo\source\repos\Centroide\Centroide\bin\Debug\net8.0-windows\Centroide.deps.json
+C:\Users\eduardo\source\repos\Centroide\Centroide\bin\Debug\net8.0-windows\Centroide.runtimeconfig.json
+C:\Users\eduardo\source\repos\Centroide\Centroide\bin\Debug\net8.0-windows\Centroide.dll
+C:\Users\eduardo\source\repos\Centroide\Centroide\bin\Debug\net8.0-windows\Centroide.pdb
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.Form1.resources
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.csproj.GenerateResource.cache
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.dll
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\refint\Centroide.dll
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.pdb
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\Centroide.genruntimeconfig.cache
+C:\Users\eduardo\source\repos\Centroide\Centroide\obj\Debug\net8.0-windows\ref\Centroide.dll
